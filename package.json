@@ -33,7 +33,7 @@
     "sdp-transform": "2.4.0",
     "shortid": "2.2.8",
     "urlsafe-base64": "1.0.0",
-    "ws": "5.1.0"
+    "ws": "7.4.6"
   },
   "nodemonConfig": {
     "ignore": [
