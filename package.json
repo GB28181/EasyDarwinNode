@@ -28,7 +28,7 @@
     "fs-extra": "5.0.0",
     "get-port": "3.2.0",
     "lowdb": "1.0.0",
-    "moment": "2.21.0",
+    "moment": "2.29.4",
     "pm2": "2.10.2",
     "sdp-transform": "2.4.0",
     "shortid": "2.2.8",
